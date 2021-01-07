@@ -1,0 +1,18 @@
+[t3]
+FileName2=t1_1_bootstrap.css
+RawStepEndTime=1586791228382
+RequestBodyFile=t3_RequestBody.txt
+RawStepName=Add a new computer
+ContentType=text/html
+URL1=http://computer-database.gatling.io/computers/new
+URL2=http://computer-database.gatling.io/assets/stylesheets/bootstrap.min.css
+URL3=http://computer-database.gatling.io/assets/stylesheets/main.css
+ResponseHeaderFile=t3_ResponseHeader.txt
+SnapshotXmlFile=snapshot_3.xml
+RequestHeaderFile=t3_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1586791228214
+Total=3
+StepName=Url: Add a new computer
+FileName1=t3.html
+FileName3=t1_0_main.css

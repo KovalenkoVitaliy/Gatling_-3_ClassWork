@@ -1,0 +1,121 @@
+[API Trapper      (2030:2b84)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      (2c68:1d44)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (2c68:2698)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2c68:2698)] Load Network Traffic Analyzers:
+[Network Analyzer (2c68:2698)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2c68:2698)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (2c68:2698)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2c68:2698)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (2c68:2698)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (2c68:2698)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2c68:2698)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2c68:2698)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2c68:10b8)] Address lookup for 5CD7411BSX = 192.168.235.63
+[Network Analyzer (2c68:2698)] Address lookup for 5CD7411BSX = 192.168.235.63
+[Network Analyzer (2c68:1364)] Address lookup for 5CD7411BSX = 192.168.235.63
+[Network Analyzer (2c68:2698)] Request Connection: Remote Server @ 127.0.0.1:8888   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      (2c68:10b8)] "GET http://computer-database.gatling.io/computers"   
+[Network Analyzer (2c68:10b8)]   (Sid:  1) Client -> Server @ : 325 bytes (Service=HTTP)
+[Network Analyzer (2c68:1364)] Request Connection: Remote Server @ 127.0.0.1:8888   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (2c68:10b8)]   (Sid:  1) Server -> Client : 7413 bytes  (Service=HTTP)
+[Web Request      (2c68:10b8)] "GET http://computer-database.gatling.io/assets/stylesheets/bootstrap.min.css"   
+[Network Analyzer (2c68:10b8)]   (Sid:  1) Client -> Server @ : 373 bytes (Service=HTTP)
+[Web Request      (2c68:10b8)] "GET http://computer-database.gatling.io/assets/stylesheets/main.css"   
+[Network Analyzer (2c68:10b8)]   (Sid:  2) Client -> Server @ : 364 bytes (Service=HTTP)
+[Network Analyzer (2c68:10b8)]   (Sid:  2) Server -> Client : 1134 bytes  (Service=HTTP)
+[Network Analyzer (2c68:10b8)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2c68:10b8)]   (Sid:  1) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2c68:10b8)]   (Sid:  1) Server -> Client : 12923 bytes  (Service=HTTP)
+[Web Request      (2c68:10b8)] "GET http://computer-database.gatling.io/favicon.ico"   
+[Network Analyzer (2c68:10b8)]   (Sid:  1) Client -> Server @ : 258 bytes (Service=HTTP)
+[Network Analyzer (2c68:10b8)]   (Sid:  1) Server -> Client : 2104 bytes  (Service=HTTP)
+[Network Analyzer (2c68:10b8)]   (Sid:  1) Connection Terminated (by Client)
+[Web Request      (2c68:10b8)] "GET http://computer-database.gatling.io/computers?f=homew"   
+[Network Analyzer (2c68:10b8)]   (Sid:  2) Client -> Server @ : 389 bytes (Service=HTTP)
+[Network Analyzer (2c68:10b8)]   (Sid:  2) Server -> Client : 1443 bytes  (Service=HTTP)
+[Web Request      (2c68:10b8)] "GET http://computer-database.gatling.io/favicon.ico"   
+[Network Analyzer (2c68:10b8)]   (Sid:  2) Client -> Server @ : 258 bytes (Service=HTTP)
+[Network Analyzer (2c68:10b8)]   (Sid:  2) Server -> Client : 2104 bytes  (Service=HTTP)
+[Network Analyzer (2c68:10b8)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (2c68:2698)] Address lookup for 5CD7411BSX = 192.168.235.63
+[Network Analyzer (2c68:1668)] Address lookup for 5CD7411BSX = 192.168.235.63
+[Network Analyzer (2c68:2698)] Request Connection: Remote Server @ 127.0.0.1:8888   (Service=)  (Sid=  3)  PROXIED!
+[Web Request      (2c68:10b8)] "GET http://computer-database.gatling.io/computers/new"   
+[Network Analyzer (2c68:10b8)]   (Sid:  3) Client -> Server @ : 393 bytes (Service=HTTP)
+[Network Analyzer (2c68:1668)] Request Connection: Remote Server @ 127.0.0.1:8888   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (2c68:10b8)]   (Sid:  3) Server -> Client : 5464 bytes  (Service=HTTP)
+[Network Analyzer (2030:2534)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2030:2534)] Load Network Traffic Analyzers:
+[Network Analyzer (2030:2534)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2030:2534)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (2030:2534)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2030:2534)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (2030:2534)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (2030:2534)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2030:2534)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2030:2534)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2030:2898)] Address lookup for 5CD7411BSX = 192.168.235.63
+[Network Analyzer (2030:2534)] Address lookup for 5CD7411BSX = 192.168.235.63
+[Network Analyzer (2030:2534)] Request Connection: Remote Server @ 127.0.0.1:8888   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      (2030:2898)] "CONNECT iecvlist.microsoft.com:443"   
+[Network Analyzer (2030:2898)]   (Sid:  1) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  1) Server -> Client : 107 bytes 
+[Network Analyzer (2030:2cb4)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2030:2870)] Address lookup for 5CD7411BSX = 192.168.235.63
+[Network Analyzer (2030:2870)] Request Connection: Remote Server @ 127.0.0.1:8888   (Service=)  (Sid=  2)  PROXIED!
+[Web Request      (2030:2898)] "GET http://ocsp.msocsp.com/MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCExwAFF8jA2u85i8%2FLFYAAAAUXyM%3D"   
+[Network Analyzer (2030:2898)]   (Sid:  2) Client -> Server @ : 268 bytes (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 500 bytes  (Service=HTTP)
+[Web Request      (2030:2898)] "GET http://ocsp.msocsp.com/MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCExwAFF8jA2u85i8%2FLFYAAAAUXyM%3D"   
+[Network Analyzer (2030:2898)]   (Sid:  2) Client -> Server @ : 311 bytes (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 500 bytes  (Service=HTTP)
+[Web Request      (2030:2898)] "GET http://mscrl.microsoft.com/pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (2030:2898)]   (Sid:  2) Client -> Server @ : 200 bytes (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 439 bytes  (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 2588 bytes  (Service=HTTP)
+[Web Request      (2030:2898)] "GET http://mscrl.microsoft.com/pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (2030:2898)]   (Sid:  2) Client -> Server @ : 243 bytes (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 3027 bytes  (Service=HTTP)
+[Web Request      (2030:2898)] "GET http://crl.microsoft.com/pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (2030:2898)]   (Sid:  2) Client -> Server @ : 196 bytes (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 444 bytes  (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 2588 bytes  (Service=HTTP)
+[Web Request      (2030:2898)] "GET http://crl.microsoft.com/pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (2030:2898)]   (Sid:  2) Client -> Server @ : 239 bytes (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 444 bytes  (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  2) Server -> Client : 2588 bytes  (Service=HTTP)
+[Net An. Error    (2030:2cb4)] SSLAccept(ssl_id = 2028808629536 = 000001D85E6AED20) Failed, ctx = 000001D85B2A1B70, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2030:2cb4)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2030:2898)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer (2030:2534)] Address lookup for 5CD7411BSX = 192.168.235.63
+[Network Analyzer (2030:2534)] Request Connection: Remote Server @ 127.0.0.1:8888   (Service=)  (Sid=  3)  PROXIED!
+[Web Request      (2030:2898)] "CONNECT iecvlist.microsoft.com:443"   
+[Network Analyzer (2030:2898)]   (Sid:  3) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  3) Server -> Client : 107 bytes 
+[Network Analyzer (2030:2b70)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2030:2b70)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (2030:2898)] "GET /IE11/1478281996/iecompatviewlist.xml"   
+[Network Analyzer (2030:2898)]   (Sid:  3) Client -> Server @ : 363 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  3) Server -> Client : 479 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  3) Server -> Client : 16383 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2030:2898)]   (Sid:  3) Server -> Client : 9821 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2c68:10b8)]   (Sid:  4) Connection Terminated (by Client)
+[Web Request      (2c68:10b8)] "POST http://computer-database.gatling.io/computers"   
+[Network Analyzer (2c68:10b8)]   (Sid:  3) Client -> Server @ : 539 bytes (Service=HTTP)
+[Network Analyzer (2c68:10b8)]   (Sid:  3) Server -> Client : 257 bytes  (Service=HTTP)
+[Web Request      (2c68:10b8)] "GET http://computer-database.gatling.io/computers"   
+[Network Analyzer (2c68:10b8)]   (Sid:  3) Client -> Server @ : 465 bytes (Service=HTTP)
+[Network Analyzer (2c68:10b8)]   (Sid:  3) Server -> Client : 7628 bytes  (Service=HTTP)

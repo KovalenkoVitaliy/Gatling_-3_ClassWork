@@ -1,0 +1,8 @@
+[parameter:Name]
+CurrentValue="homew"
+IsEncrypt="NO"
+IsServer="NO"
+OriginalValue=""
+ParamName="Name"
+Prompt=""
+Type="Custom"

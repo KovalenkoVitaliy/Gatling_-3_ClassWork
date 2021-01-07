@@ -1,0 +1,32 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: computers",
+                "infFile": "t1.inf",
+                "time": 1586791227828
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Submit Data: computers_2",
+                "infFile": "t2.inf",
+                "time": 1586791228194
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: Add a new computer",
+                "infFile": "t3.inf",
+                "time": 1586791228544
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Submit Data: computers_3",
+                "infFile": "t4.inf",
+                "time": 1586791228994
+            }
+        ],
+        "transactions": []
+    }
+]
